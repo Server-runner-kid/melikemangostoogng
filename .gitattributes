@@ -1,0 +1,2 @@
+clients/Incari.html filter=lfs diff=lfs merge=lfs -text
+clients/Icari.html filter=lfs diff=lfs merge=lfs -text
